@@ -1,0 +1,277 @@
+{
+  "name": "pancakeswap",
+  "timestamp": "",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wftm.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+  
+    { 
+      "name": "WFTM Token",
+      "symbol": "WFTM",
+      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+
+    { 
+      "name": "WETH Token",
+      "symbol": "WETH",
+      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/WETH.png"
+    },
+    
+
+    { 
+      "name": "WBTC Token",
+      "symbol": "WBTC",
+      "address": "0x321162cd933e2be498cd2267a90534a804051b11",
+      "chainId": 250,
+      "decimals": 8,
+      "logoURI": "/images/coins/BTC.png"
+    },
+    {
+      "name": "FUSD Token",
+      "symbol": "FUSD",
+      "address": "0xAd84341756Bf337f5a0164515b1f6F993D194E1f",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/logo.png"
+    },
+   
+    {
+      "name": "Frapped Usdt",
+      "symbol": "FUSDT",
+      "address": "0x049d68029688eAbF473097a2fC38ef61633A3C7A",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "/images/coins/logo.png"
+    },
+
+    {
+      "name": "USD coin",
+      "symbol": "USDC",
+      "address": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "/images/coins/logo.png"
+    },
+
+    {
+      "name": "DAI coin",
+      "symbol": "DAI",
+      "address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/logo.png"
+    },
+
+    {
+      "name": "Fatcake Token",
+      "symbol": "FATCAKE",
+      "address": "0x4a3DCE89cA816D4F10864664B6503df95a92d879",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/logo.png"
+    },
+
+    {
+      "name": "DarkKnightSwap Token",
+      "symbol": "dKNIGHT",
+      "address": "0x6cc0E0AedbbD3C35283e38668D959F6eb3034856",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/logo.png"
+    },
+
+    {
+      "name": "Undead Finance", 
+      "symbol": "UNDEAD",
+      "address": "0x551C61DB482289994e7d426Fc4DB6493918bB81D",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/UNDEAD.png"
+    },
+
+    {
+      "name": "DefiLaunch Token", 
+      "symbol": "fDLAUNCH",
+      "address": "0xef393310b708761e3b6b59813ef41fe45d853cec",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "DEAP Coin ", 
+      "symbol": "DEP",
+      "address": "0x8dFDC61c7c7551D0DEec950A2822eB59cddb8f59",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/DEAP.png"
+    },
+
+    {
+      "name": "Singualar", 
+      "symbol": "SING",
+      "address": "0x53D831e1db0947c74e8a52618f662209ec5dE0cE",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/DEAP.png"
+    },
+    {
+      "name": "DUO", 
+      "symbol": "DUO",
+      "address": "0x779d5AECf90c724347B6A5a92083DaF57296459E",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/DEAP.png"
+    },
+
+    {
+      "name": "DefySwap", 
+      "symbol": "DFY",
+      "address": "0x84b0b7718f8480A9eDa3133Fd385D7EDf2b1d1c4",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/DEAP.png"
+    },
+
+    {
+      "name": "AOD", 
+      "symbol": "AOD",
+      "address": "0x632819c470cf8c1b4b09ca12d5d3e0c2d19c987d",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/DEAP.png"
+    },
+    {
+      "name": "FLORY", 
+      "symbol": "FLORY",
+      "address": "0x05ce3e76ede285d6ed2507d5472ca1c061ac9a8c",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/DEAP.png"
+    },
+
+    {
+      "name": "FTMO", 
+      "symbol": "FTMO",
+      "address": "0x9bD0611610A0f5133e4dd1bFdd71C5479Ee77f37",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/DEAP.png"
+    },
+
+    {
+      "name": "ASTRONAUT", 
+      "symbol": "NAUT",
+      "address": "0x9c11ca3b1012bb752e1b57f939e3a86af354675c",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/NAUT.png"
+    },
+
+    {
+      "name": "5TABLE", 
+      "symbol": "5TABLE",
+      "address": "0x14d6111dbfD64CEb9676a494BF86AA9f7DD54acC",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/5TALE.png"
+    },
+
+    {
+      "name": "FAST", 
+      "symbol": "FAST",
+      "address": "0x0299461eE055bbb6dE11fAfE5a0636A0C3Bd5E8d",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/FAST.png"
+    },
+
+
+    {
+      "name": "MiniPanther", 
+      "symbol": "MP",
+      "address": "0x3264810174f577F82DDD4FD08818F368AC363505",
+      "chainId": 250,
+      "decimals": 9,
+      "logoURI": "/images/coins/FAST.png"
+    },
+    {
+      "name": "Wrapped sMP", 
+      "symbol": "WMP",
+      "address": "0x376d7370347fd8baccfa918362d80fafe7792890",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "/images/coins/FAST.png"
+    },
+    {
+      "name": "PROTON", 
+      "symbol": "PROTO",
+      "address": "0xa23c4e69e5Eaf4500F2f9301717f12B578b948FB",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "THUNDER", 
+      "symbol": "THUNDER",
+      "address": "0x8B7ec83ec7a687Dd81596d0251Bae16d4F005B6c",
+      "chainId": 250,
+      "decimals": 18
+    },
+
+    {
+      "name": "fSPA", 
+      "symbol": "fSPA",
+      "address": "0x63aad0448F58ae1B98d75456CFC6f39235e353F6",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "FLIBERO", 
+      "symbol": "FLIBERO",
+      "address": "0xC3f069D7439baf6D4D6E9478D9Cc77778E62D147",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "ASNT", 
+      "symbol": "ASNT",
+      "address": "0x5B3C1F260E09e653290f24F75abC5e466fD42310",
+      "chainId": 250,
+      "decimals": 18
+    },
+    {
+      "name": "BNB", 
+      "symbol": "BNB",
+      "address": "0xD67de0e0a0Fd7b15dC8348Bb9BE742F3c5850454",
+      "chainId": 250,
+      "decimals": 18
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+  ]
+  
+}
