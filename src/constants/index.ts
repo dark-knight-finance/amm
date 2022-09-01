@@ -81,19 +81,16 @@ export interface WalletInfo {
   primary?: true
   mobile?: true
   mobileOnly?: true
+
+
+
+
+
 }
 
 
 export const SUPPORTED_WALLETS: { [key: string]: WalletInfo } = {
-  // BSC: {
-    // ff//
-  //   connector: bsc,
-  //   name: 'Binance Chain Wallet',
-  //   iconName: 'binance.svg',
-  //   description: 'Easy-to-use browser extension.',
-  //   href: null,
-  //   color: '#E8831D'
-  // },
+
   INJECTED: {
     connector: injected,
     name: 'Injected',
